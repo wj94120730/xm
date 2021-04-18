@@ -125,7 +125,7 @@ router.get('/detail',(req,res)=>{
     }
   });
 });
-//4.修改用户
+//4.修改用户 update post
 
 //导出路由器对象
 module.exports=router;
